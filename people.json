@@ -1,0 +1,138 @@
+{"people":
+  [{
+    "_id": "563a375c5cdb5c68cba4d33f",
+    "isActive": true,
+    "age": 35,
+    "eyeColor": "brown",
+    "name": "Alisha Cook",
+    "company": "SPLINX",
+    "email": "alishacook@splinx.com",
+    "address": "993 Roder Avenue, Knowlton, Connecticut, 2910",
+    "registered": "2015-04-20T05:47:35 +04:00",
+    "greeting": "Hello, Alisha Cook! You have 5 unread messages.",
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Nichole Klein"
+      },
+      {
+        "id": 1,
+        "name": "Frost Carr"
+      },
+      {
+        "id": 2,
+        "name": "Deirdre Cervantes"
+      }
+    ]
+  },
+  {
+    "_id": "563a375c82217a2b0d5264ca",
+    "isActive": false,
+    "age": 50,
+    "eyeColor": "brown",
+    "name": "Black Mcleod",
+    "company": "KEGULAR",
+    "email": "blackmcleod@kegular.com",
+    "address": "464 Wilson Street, Deseret, Maryland, 6741",
+    "registered": "2014-09-16T05:03:46 +04:00",
+    "greeting": "Hello, Black Mcleod! You have 9 unread messages.",
+    "favoriteFruit": "apple",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Morgan Kramer"
+      },
+      {
+        "id": 1,
+        "name": "Whitaker Howard"
+      },
+      {
+        "id": 2,
+        "name": "Tameka Watson"
+      }
+    ]
+  },
+  {
+    "_id": "563a375c3da995dcea49ce9f",
+    "isActive": true,
+    "age": 50,
+    "eyeColor": "brown",
+    "name": "Cervantes Copeland",
+    "company": "VENDBLEND",
+    "email": "cervantescopeland@vendblend.com",
+    "address": "265 Village Court, Whitehaven, Wyoming, 2488",
+    "registered": "2014-05-04T09:31:26 +04:00",
+    "greeting": "Hello, Cervantes Copeland! You have 5 unread messages.",
+    "favoriteFruit": "strawberry",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Waters Bird"
+      },
+      {
+        "id": 1,
+        "name": "Lacy Knowles"
+      },
+      {
+        "id": 2,
+        "name": "Haynes Mason"
+      }
+    ]
+  },
+  {
+    "_id": "563a375c973d2db772eff46e",
+    "isActive": true,
+    "age": 57,
+    "eyeColor": "blue",
+    "name": "Jordan Daniel",
+    "company": "NIKUDA",
+    "email": "jordandaniel@nikuda.com",
+    "address": "982 Schermerhorn Street, Rutherford, Mississippi, 7464",
+    "registered": "2015-08-28T12:22:39 +04:00",
+    "greeting": "Hello, Jordan Daniel! You have 10 unread messages.",
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mccall Mercer"
+      },
+      {
+        "id": 1,
+        "name": "Colette Smith"
+      },
+      {
+        "id": 2,
+        "name": "Christie Kidd"
+      }
+    ]
+  },
+  {
+    "_id": "563a375cc65025fec5b335d8",
+    "isActive": false,
+    "age": 33,
+    "eyeColor": "blue",
+    "name": "Hamilton Sears",
+    "company": "DIGITALUS",
+    "email": "hamiltonsears@digitalus.com",
+    "address": "271 Grant Avenue, Elwood, Michigan, 454",
+    "registered": "2014-01-17T04:15:40 +05:00",
+    "greeting": "Hello, Hamilton Sears! You have 1 unread messages.",
+    "favoriteFruit": "banana",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Osborn Roy"
+      },
+      {
+        "id": 1,
+        "name": "Burns Lowery"
+      },
+      {
+        "id": 2,
+        "name": "Foley Petersen"
+      }
+    ]
+  }]
+
+}
